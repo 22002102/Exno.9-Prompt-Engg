@@ -136,6 +136,12 @@ All outputs were saved, timestamped, and labeled. A comparison matrix was create
 
 ---
 
+## output:
+### Text:
+On a quiet hilltop, an old clockmaker built a tiny workshop filled with ticking wonders. One day, he discovered a broken watch that could pause time for exactly one minute. Curious and cautious, he used it to rescue a falling bird midair. Word of his strange power spread, but he chose to live in silence, fixing time for others—never for himself.
+### video:
+https://drive.google.com/file/d/1LQfRXc9-2NARle-k-aGY5zG60eHv_QEH/view?usp=sharing
+
 ## Result:  
 The prompt-based video generation task was completed successfully. Various prompting techniques were explored and applied using tools like Runway Gen-2 and Synthesia. It was observed that more specific and well-structured prompts resulted in higher quality and more contextually accurate videos.
 
